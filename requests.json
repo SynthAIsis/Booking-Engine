@@ -1,0 +1,4 @@
+{
+    "error": "Booking failed with status code 401",
+    "details": "Unauthorized - Invalid API key"
+}

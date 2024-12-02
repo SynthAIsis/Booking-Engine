@@ -1,0 +1,12 @@
+{
+    "status": "success",
+    "villa": {
+        "name": "Seaside Luxury Villa",
+        "location": "Elounda, Crete, Greece",
+        "price_per_night": 300,
+        "total_price": 2100,
+        "booking_id": "12345ABC",
+        "check_in": "2025-06-15",
+        "check_out": "2025-06-22"
+    }
+}
